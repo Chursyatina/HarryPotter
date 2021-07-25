@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/All"
+        android:enabled="true"
+        android:title="All" />
+    <item
+        android:id="@+id/Gryffindor"
+        android:enabled="true"
+        android:title="Gryffindor" />
+    <item
+        android:id="@+id/Hufflepuff"
+        android:enabled="true"
+        android:title="Hufflepuff" />
+    <item
+        android:id="@+id/Ravenclaw"
+        android:enabled="true"
+        android:title="Ravenclaw"  />
+    <item
+        android:id="@+id/Slytherin"
+        android:enabled="true"
+        android:title="Slytherin"  />
+</menu>
